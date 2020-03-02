@@ -1,2 +1,2 @@
 # Computational-Geometry
-Contains programming assignments for Coursera-Computational-Geometry
+Contains assignments for Coursera-Computational-Geometry
